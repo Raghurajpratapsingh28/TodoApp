@@ -1,4 +1,6 @@
-# Todo App
+# Todo App 
+### (Project Start Date:19/10/2024)  (Project End Date:Ending id too far) Updating Day by Day
+
 ## Define
 It is a Simple Todo app that is used to take inputs from four input boxes 
 - Title
