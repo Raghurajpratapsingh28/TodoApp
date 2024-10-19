@@ -1,8 +1,11 @@
-# React + Vite
+# Todo App
+## Define
+It is a Simple Todo app that is used to take inputs from four input boxes 
+- Title
+- Description
+- Date
+- Time
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Functionality 
+It will take inputs and show todos below inputs of last inputs 
+and when we go all todos from Navbar to show all todos and we can search there 
